@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\nrunif(10)\n\n [1] 0.12160487 0.76270842 0.60225827 0.80641761 0.29441700 0.39111180\n [7] 0.88271626 0.02343048 0.61186775 0.74266599"
   },
   {
     "objectID": "index.html",
