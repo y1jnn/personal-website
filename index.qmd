@@ -14,6 +14,7 @@ about:
       href: mycrocs.redbubble.com
     - text: Email
       url: "mailto:sophiayi@g.ucla.edu"
+      icon: inbox-fill
     - text: Resume
       url: "resume.pdf"
 ---
@@ -33,3 +34,5 @@ B.A in Spanish | Sept 2022 - June 2026
 ## Experience
 
 LSY Enterprise | Data Analyst Intern | June 2025 - Sept 2025
+
+[Practical Causal Inference Lab](/https://www.practicallycausal.com/) | Website Developer | June 2025 - 
