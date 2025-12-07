@@ -10,8 +10,7 @@ about:
     - icon: github
       text: Github
       href: https://github.com/y1jinn
-    - icon: redbubble
-      text: Redbubble
+    - text: Redbubble
       href: mycrocs.redbubble.com
     - text: Email
       url: "mailto:sophiayi@g.ucla.edu"
