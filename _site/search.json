@@ -1,23 +1,30 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "about.html",
+    "href": "about.html",
     "title": "Sophia Yi",
     "section": "",
     "text": "Sophia Yi is a 4th year undergraduate student at UCLA, studying Statistics & Data Science and Spanish. Her interests are in Biostatistics and public health.\nDownload Resume"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
+    "objectID": "about.html#education",
+    "href": "about.html#education",
     "title": "Sophia Yi",
     "section": "Education",
     "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA | B.S in Statistics & Data Science | Sept 2022 - June 2026\nUniversity of California, Los Angeles | Los Angeles, CA | B.A in Spanish | Sept 2022 - June 2026"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
     "title": "Sophia Yi",
     "section": "Experience",
     "text": "Experience\nLSY Enterprise | Data Analyst Intern | June 2025 - Sept 2025"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sophia Yi",
+    "section": "",
+    "text": "Welcome to Sophia’s website!"
   }
 ]
