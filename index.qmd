@@ -1,36 +1,9 @@
 ---
 title: "Sophia Yi"
 about:
-  template: trestles
+  template: jolla
   image: profile-pic.jpeg
-  links:
-    - icon: linkedin
-      text: LinkedIn
-      href: www.linkedin.com/in/yi-sophia
-    - icon: github
-      text: Github
-      href: https://github.com/y1jinn
-    - text: Redbubble
-      href: mycrocs.redbubble.com
-    - text: Email
-      url: "mailto:sophiayi@g.ucla.edu"
-    - text: Resume
-      url: "resume.pdf"
 ---
 
-Sophia Yi is a 4th year undergraduate student at UCLA, studying Statistics & Data Science and Spanish. Her interests are in Biostatistics and public health. 
-
-Download [Resume][/resume.pdf]
-
-## Education
-
-University of California, Los Angeles | Los Angeles, CA |
-B.S in Statistics & Data Science | Sept 2022 - June 2026
-
-University of California, Los Angeles | Los Angeles, CA | 
-B.A in Spanish | Sept 2022 - June 2026
-
-## Experience
-
-LSY Enterprise | Data Analyst Intern | June 2025 - Sept 2025
+Welcome to Sophia's website! 
 
