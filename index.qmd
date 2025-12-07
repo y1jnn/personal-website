@@ -15,7 +15,7 @@ about:
       href: mycrocs.redbubble.com
     - text: Email
       url: "mailto:sophiayi@g.ucla.edu"
-    - text. Resume
+    - text: Resume
       url: "resume.pdf"
 ---
 
