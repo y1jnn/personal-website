@@ -33,5 +33,19 @@
     "title": "Recent Projects",
     "section": "",
     "text": "My final group project in Stats 140XP examined how debt delinquency rates vary within socioeconomic and demographic characteristics, with particular attention to childhood family income. Read our final report here:"
+  },
+  {
+    "objectID": "projects.html#heavy-tailed-reward-distributions-for-multiplayer-bandits-april-2025",
+    "href": "projects.html#heavy-tailed-reward-distributions-for-multiplayer-bandits-april-2025",
+    "title": "Recent Projects",
+    "section": "Heavy-Tailed Reward Distributions for Multiplayer Bandits (April 2025)",
+    "text": "Heavy-Tailed Reward Distributions for Multiplayer Bandits (April 2025)\nThis paper explores the multi-arm bandit problem and extends the study of heavy-tailed bandits to the multi-agent setting, where multiple players interact in environments with varying levels of information asymmetry. Read more about our paper here"
+  },
+  {
+    "objectID": "projects.html#coordinating-for-clicks-learning-in-multi-agent-information-asymmetric-cascading-bandits-feb-2025",
+    "href": "projects.html#coordinating-for-clicks-learning-in-multi-agent-information-asymmetric-cascading-bandits-feb-2025",
+    "title": "Recent Projects",
+    "section": "Coordinating for Clicks: Learning in Multi-Agent Information Asymmetric Cascading Bandits (Feb 2025)",
+    "text": "Coordinating for Clicks: Learning in Multi-Agent Information Asymmetric Cascading Bandits (Feb 2025)\nThis paper builds on the decentralized, cooperative multi-agent bandit framework and apply it to the previously researchedstochastic partial-monitoring cascading bandit problem. We contend with three variants of information asymmetry: action asymmetry, reward asymmetry, and that with both action and reward asymmetry. Read more about our paper here"
   }
 ]
