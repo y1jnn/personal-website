@@ -19,7 +19,7 @@ about:
       url: "resume.pdf"
 ---
 
-Sophia Yi is a 4th year undergraduate student at UCLA, studying Statistics & Data Science and Spanish. Her interests are in Biostatistics and public health. 
+Sophia Yi is a 4th year undergraduate student at UCLA, studying Statistics & Data Science and Spanish. Her interests are in Biostatistics and public health. In her free time, she enjoys cafe-hopping and digital art (check out her Redbubble below!)
 
 Download [Resume](/resume.pdf)
 
@@ -33,6 +33,6 @@ B.A in Spanish | Sept 2022 - June 2026
 
 ## Experience
 
-LSY Enterprise | Data Analyst Intern | June 2025 - Sept 2025
-
 [Practical Causal Inference Lab](/https://www.practicallycausal.com/) | Website Developer | June 2025 - 
+
+LSY Enterprise | Data Analyst Intern | June 2025 - Sept 2025
