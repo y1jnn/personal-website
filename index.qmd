@@ -10,16 +10,19 @@ about:
     - icon: github
       text: Github
       href: https://github.com/y1jinn
+    - icon: redbubble
+      text: Redbubble
+      href: mycrocs.redbubble.com
 ---
 
 Sophia Yi is a 4th year undergraduate student at UCLA, studying Statistics & Data Science and Spanish. Her interests are in Biostatistics and public health. 
 
 ## Education
 
-University of California, Los Angeles | Los Angeles, CA
+University of California, Los Angeles | Los Angeles, CA |
 B.S in Statistics & Data Science | Sept 2022 - June 2026
 
-University of California, Los Angeles | Los Angeles, CA
+University of California, Los Angeles | Los Angeles, CA | 
 B.A in Spanish | Sept 2022 - June 2026
 
 ## Experience
