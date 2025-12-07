@@ -1,7 +1,7 @@
 ---
 title: "Sophia Yi"
 about:
-  template: jolla
+  template: trestles
   image: profile-pic.jpeg
   links:
     - icon: linkedin
@@ -13,9 +13,15 @@ about:
     - icon: redbubble
       text: Redbubble
       href: mycrocs.redbubble.com
+    - text: Email
+      url: "mailto:sophiayi@g.ucla.edu"
+    - text. Resume
+      url: "resume.pdf"
 ---
 
 Sophia Yi is a 4th year undergraduate student at UCLA, studying Statistics & Data Science and Spanish. Her interests are in Biostatistics and public health. 
+
+Download [Resume][/resume.pdf]
 
 ## Education
 

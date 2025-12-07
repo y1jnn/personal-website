@@ -8,6 +8,9 @@ website:
         text: Home
       - about.qmd
 
+  page-footer: 
+    right: "&copy; 2025, Sophia Yi"
+
 format:
   html:
     theme:
@@ -15,6 +18,11 @@ format:
       - brand
     css: styles.css
     toc: false
+    published-title: "last updated"
+    reference-location: document
+    code-fold: false
+    code-summary: ""
+    fontsize: 1.3em
 
 
 execute: 
