@@ -12,18 +12,17 @@ about:
       href: https://github.com/y1jinn
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+Sophia Yi is a 4th year undergraduate student at UCLA, studying Statistics & Data Science and Spanish. Her interests are in Biostatistics and public health. 
 
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+University of California, Los Angeles | Los Angeles, CA
+B.S in Statistics & Data Science | Sept 2022 - June 2026
 
-Macalester College | St. Paul, MN
-B.A in Economics | Sept 2007 - June 2011
+University of California, Los Angeles | Los Angeles, CA
+B.A in Spanish | Sept 2022 - June 2026
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+LSY Enterprise | Data Analyst Intern | June 2025 - Sept 2025
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
