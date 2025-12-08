@@ -6,7 +6,7 @@ toc: false
 
 ## An Investigation of Debt Delinquency Across the United States (Dec 2025)
 
-My final group project in Stats 140XP examined how debt delinquency rates vary within socioeconomic and demographic characteristics, with particular attention to childhood family income. Read our final report [here](/140xpfinalreport.pdf): 
+My final group project in Stats 140XP examined how debt delinquency rates vary within socioeconomic and demographic characteristics, with particular attention to childhood family income. Read our final report [here](/140xpfinalreport.pdf)
 
 ## Heavy-Tailed Reward Distributions for Multiplayer Bandits (April 2025)
 
